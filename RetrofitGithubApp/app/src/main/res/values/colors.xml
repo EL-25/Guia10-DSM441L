@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Brand Colors -->
+    <color name="brand_primary">#2563EB</color>
+    <color name="brand_primary_dark">#1D4ED8</color>
+    <color name="brand_primary_container">#DBEAFE</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+
+    <color name="brand_secondary">#0F172A</color>
+    <color name="brand_accent">#6366F1</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="bg_screen">#F8FAFC</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_search_input">#FFFFFF</color>
+    <color name="bg_avatar_placeholder">#E2E8F0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#94A3B8</color>
+
+    <!-- Borders & Dividers -->
+    <color name="stroke_card">#E2E8F0</color>
+    <color name="stroke_search">#CBD5E1</color>
+
+    <!-- Badges & Indicators -->
+    <color name="badge_public_bg">#DCFCE7</color>
+    <color name="badge_public_text">#15803D</color>
+    <color name="badge_fork_bg">#F1F5F9</color>
+    <color name="badge_fork_text">#475569</color>
+
+    <!-- Stats & Icons -->
+    <color name="star_color">#F59E0B</color>
+    <color name="fork_color">#64748B</color>
+    <color name="calendar_color">#94A3B8</color>
+
+    <!-- Status Colors -->
+    <color name="error_red">#EF4444</color>
+    <color name="error_bg">#FEF2F2</color>
+    <color name="error_stroke">#FECACA</color>
+
+    <!-- Chip suggestions -->
+    <color name="chip_bg">#F1F5F9</color>
+    <color name="chip_text">#334155</color>
+    <color name="chip_stroke">#E2E8F0</color>
+</resources>

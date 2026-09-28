@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GitHub Explorer</string>
+    <string name="search_hint">Ingresa usuario de GitHub...</string>
+    <string name="search_button">Buscar</string>
+    <string name="public_badge">Público</string>
+    <string name="fork_badge">Fork</string>
+    <string name="no_description">Sin descripción disponible.</string>
+    <string name="unknown_language">Markdown / Texto</string>
+    <string name="quick_suggestions">Sugerencias rápidas:</string>
+    
+    <!-- States -->
+    <string name="initial_title">Explora Repositorios</string>
+    <string name="initial_subtitle">Busca cualquier usuario de GitHub para ver sus repositorios públicos, estadísticas y enlaces.</string>
+    <string name="loading_text">Consultando repositorios de @%1$s...</string>
+    <string name="empty_title">Sin repositorios públicos</string>
+    <string name="empty_subtitle">El usuario @%1$s no tiene repositorios públicos o no existen repositorios para mostrar.</string>
+    <string name="error_title">Ocurrió un error</string>
+    <string name="error_retry">Reintentar</string>
+    <string name="error_empty_username">Por favor, escribe un nombre de usuario.</string>
+    
+    <!-- User Profile Header -->
+    <string name="repos_count_format">%1$d repositorios públicos</string>
+</resources>
